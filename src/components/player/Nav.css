@@ -1,0 +1,10 @@
+.container-nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.icon {
+    cursor: pointer;
+    height: 50px;
+    width: 50px
+}

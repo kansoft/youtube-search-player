@@ -1,0 +1,19 @@
+.container-details {
+    justify-content: flex-start;
+    width: 640px;
+    align-self: center;
+    text-align: left;
+}
+
+.details {
+    padding: 10px;
+}
+
+
+@media (max-width: 768px){
+
+    .container-details {
+        width: 100%;
+    }
+
+}

@@ -1,0 +1,20 @@
+.container-content {
+    width: 640px;
+    align-self: center;
+}
+.container-player {
+    padding: 10px;
+
+    height: 40vh;
+    align-self: center;
+}
+
+
+@media (max-width: 768px){
+
+    .container-content {
+        width: 100%;
+        align-self: center;
+    }
+
+}

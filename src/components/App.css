@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  width: 100%;
+  align-items: center;
+
+}
+
+.app-link {
+  color: #61dafb;
+}
